@@ -1,5 +1,2 @@
 [build]
-builder = "RAILPACK"
-
-[deploy]
-startCommand = "npx flowise start"
+builder = "Nixpacks"
